@@ -1,0 +1,6 @@
+# terraform
+.terraform
+terraform
+
+# mac
+.DS_Store
